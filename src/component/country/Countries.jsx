@@ -3,7 +3,7 @@ import React from 'react';
 const Countries = () => {
     return (
         <div>
-            <h1>The country <Bangladesh></Bangladesh></h1>
+            <h2>I love my country</h2>
         </div>
     );
 };
